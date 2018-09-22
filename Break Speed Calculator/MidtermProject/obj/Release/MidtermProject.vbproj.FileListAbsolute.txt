@@ -1,0 +1,12 @@
+F:\Libraries\Documents\UWA\CS 320 Visual Basic\Midterm\Midterm Program\MidtermProject\MidtermProject\bin\Release\MidtermProject.exe.config
+F:\Libraries\Documents\UWA\CS 320 Visual Basic\Midterm\Midterm Program\MidtermProject\MidtermProject\bin\Release\MidtermProject.exe
+F:\Libraries\Documents\UWA\CS 320 Visual Basic\Midterm\Midterm Program\MidtermProject\MidtermProject\bin\Release\MidtermProject.pdb
+F:\Libraries\Documents\UWA\CS 320 Visual Basic\Midterm\Midterm Program\MidtermProject\MidtermProject\bin\Release\MidtermProject.xml
+F:\Libraries\Documents\UWA\CS 320 Visual Basic\Midterm\Midterm Program\MidtermProject\MidtermProject\obj\Release\MidtermProject.Form1.resources
+F:\Libraries\Documents\UWA\CS 320 Visual Basic\Midterm\Midterm Program\MidtermProject\MidtermProject\obj\Release\MidtermProject.Resources.resources
+F:\Libraries\Documents\UWA\CS 320 Visual Basic\Midterm\Midterm Program\MidtermProject\MidtermProject\obj\Release\MidtermProject.vbproj.GenerateResource.Cache
+F:\Libraries\Documents\UWA\CS 320 Visual Basic\Midterm\Midterm Program\MidtermProject\MidtermProject\obj\Release\MidtermProject.vbproj.CoreCompileInputs.cache
+F:\Libraries\Documents\UWA\CS 320 Visual Basic\Midterm\Midterm Program\MidtermProject\MidtermProject\obj\Release\MidtermProject.exe
+F:\Libraries\Documents\UWA\CS 320 Visual Basic\Midterm\Midterm Program\MidtermProject\MidtermProject\obj\Release\MidtermProject.xml
+F:\Libraries\Documents\UWA\CS 320 Visual Basic\Midterm\Midterm Program\MidtermProject\MidtermProject\obj\Release\MidtermProject.pdb
+F:\Libraries\Documents\UWA\CS 320 Visual Basic\Midterm\Midterm Program\MidtermProject\MidtermProject\obj\Release\MidtermProject.vbprojResolveAssemblyReference.cache
